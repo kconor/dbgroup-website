@@ -1,0 +1,25 @@
+HowTo:
+	Compile: 
+		1. cd pelican
+		2. make html
+	View:
+		1. compile site
+		2. make serve
+		3. visit localhost:8000 in your web browser
+	Add a news item:
+		1. cd pelican/news
+		2. copy an existing YYYYMMDD.md file and rename with date of item
+		3. update the meta data fields at top of new file
+		4. add content to file, emulate markdown formatting from previous items
+		5. compile and view
+
+
+Python Dependencies (install with pip, virtualenv is your friend):
+	pelican
+	Markdown 
+
+
+Resources:
+	https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+	http://docs.getpelican.com/en/3.3.0/
+	https://github.com/DandyDev/pelican-bootstrap3
