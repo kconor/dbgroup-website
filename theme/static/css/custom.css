@@ -1,0 +1,67 @@
+html, body { height: 100%; }
+
+div.container { 
+	min-height: 95%;
+}
+
+footer {
+	background: #881c1c;
+	color: #eee;
+	min-height: 5%;
+}
+
+/* hide the date lable in blog entries */
+footer.post-info > span.label {
+	display: none;
+}
+
+/* move the calendar icon over to adjust for removing the date label*/
+i.fa-calendar {
+	margin-left: 1%;
+}
+
+hr { display: none; }
+
+br { clear: both; }
+
+div.pic {
+	float: left;
+	margin: 2em;
+	text-align: center;
+}
+
+div.pic img {
+	max-height: 140px;
+	max-width: 140px;
+}
+
+div#sidebar {
+	display: none;
+}
+
+div.navbar-inverse {
+	background: #881c1c;
+}
+
+/* first link in menu bar */
+.navbar-inverse .navbar-brand {
+	color: #ccc;
+}
+
+/* rest of links in menu bar */
+.navbar-inverse .navbar-nav > li > a {
+	color: #ccc;
+}
+
+
+/* link in menu bar when visiting that section */
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
+	background: #08344f;
+}
+
+/*.bgimg { background-image: url('/images/leaves.jpg'); }*/
+
+.pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {
+	background-color: #08344f;
+	border-color: #08344f;
+}
