@@ -26,23 +26,84 @@ Faculty
 	</div>
 </div>
 <br style="clear:both"/>
+<h2>Students</h2>
+<div>
+	<div class="pic">
+		<a href="https://www.cs.umass.edu/~yban/">
+			<div>![Yunmeng Ban](|filename|/images/person.png)</div>
+			<span>Yunmeng Ban</span>
+		</a>
+	</div>
+	<div class="pic">
+		<a href="https://www.cs.umass.edu/~matteo/">
+			<div>![Matteo Brucato](|filename|/images/person.png)</div>
+			<span>Matteo Brucato</span>
+		</a>
+	</div>
+	<div class="pic">
+		<a href="http://www.cs.umass.edu/~kconor">
+			<div>![Kevin Conor](|filename|/images/kevin.png)</div>
+			<span>Kevin Conor</span>
+		</a>
+	</div>
+	<div class="pic">
+		<a href="http://www.cs.umass.edu/~boduo/">
+			<div>![Boduo Li](|filename|/images/person.png)</div>
+			<span>Boduo Li</span>
+		</a>
+	</div>
+	<div class="pic">
+		<a href="https://www.cs.umass.edu/~wenzhao/">
+			<div>![Wenzhao Liu](|filename|/images/person.png)</div>
+			<span>Wenzhao Liu</span>
+		</a>
+	</div>
+	<div class="pic">
+		<a href="http://www.cs.umass.edu/~wen">
+			<div>![Wentian Lu](|filename|/images/person.png)</div>
+			<span>Wentian Lu</span>
+		</a>
+	</div>
+	<div class="pic">
+		<a href="http://www.cs.umass.edu/~lppeng/">
+			<div>![Liping Peng](|filename|/images/person.png)</div>
+			<span>Liping Peng</span>
+		</a>
+	</div>
+	<div class="pic">
+		<a href="http://www.cs.umass.edu/~rahulram">
+			<div>![Rahul Ramakrishna](|filename|/images/person.png)</div>
+			<span>Rahul Ramakrishna</span>
+		</a>
+	</div>
+	<div class="pic">
+		<a href="http://www.cs.umass.edu/~aroy">
+			<div>![Abhishek Roy](|filename|/images/person.png)</div>
+			<span>Abhishek Roy</span>
+		</a>
+	</div>
+	<div class="pic">
+		<a href="https://www.cs.umass.edu/~xlwang/">
+			<div>![Xiaolan Wang](|filename|/images/person.png)</div>
+			<span>Xiaolan Wang</span>
+		</a>
+	</div>
+	<div class="pic">
+		<a href="http://www.cs.umass.edu/~yuewang">
+			<div>![Yue Wang](|filename|/images/person.png)</div>
+			<span>Yue Wang</span>
+		</a>
+	</div>
+	<div class="pic">
+		<a href="http://www.cs.umass.edu/~haopeng/">
+			<div>![Haopeng Zhang](|filename|/images/haopeng.jpg)</div>
+			<span>Haopeng Zhang</span>
+		</a>
+	</div>
+</div>
+<br style="clear:both"/>
 
 
-Students
---------
-
-* [Yunmeng Ban](https://www.cs.umass.edu/~yban/)
-* [Matteo Brucato](https://www.cs.umass.edu/~matteo/)
-* [Kevin Conor](http://www.cs.umass.edu/~kconor)
-* [Boduo Li](http://www.cs.umass.edu/~boduo/)
-* [Wenzhao Liu](https://www.cs.umass.edu/~wenzhao/)
-* [Wentian Lu](http://www.cs.umass.edu/~wen)
-* [Liping Peng](http://www.cs.umass.edu/~lppeng/)
-* [Rahul Ramakrishna](http://www.cs.umass.edu/~rahulram)
-* [Abhishek Roy](http://www.cs.umass.edu/~aroy)
-* [Xiaolan Wang](https://www.cs.umass.edu/~xlwang/)
-* [Yue Wang](http://www.cs.umass.edu/~yuewang)
-* [Haopeng Zhang](http://www.cs.umass.edu/~haopeng/)
 
 Alumni
 ------
