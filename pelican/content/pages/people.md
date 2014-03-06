@@ -90,7 +90,7 @@ Faculty
 	</div>
 	<div class="pic">
 		<a href="http://www.cs.umass.edu/~yuewang">
-			<div>![Yue Wang](|filename|/images/person.png)</div>
+			<div>![Yue Wang](|filename|/images/yuewang.jpg)</div>
 			<span>Yue Wang</span>
 		</a>
 	</div>
